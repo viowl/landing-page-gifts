@@ -105,7 +105,7 @@ img {
 
   padding: 15px 20px 15px 20px;
   border-radius: 5px;
-  background-color:var(--brand-color);
+  background-color: var(--brand-color);
   color: #ffffff;
 
   min-height: 60px;
@@ -125,7 +125,6 @@ img {
 .hero-down {
   display: flex;
   flex-direction: row-reverse;
-  
 }
 
 .hero-right {
@@ -140,7 +139,6 @@ img {
   color: #000000;
   margin-left: 112px;
   padding-top: 164px;
-
 }
 
 .hero-down-text {
@@ -150,9 +148,7 @@ img {
   font-family: "mono" monospace;
   font-size: 20px;
   line-height: 140.62%;
-width: 400px;
-
-
+  width: 400px;
 }
 .hero-down-botton {
   margin-top: 35px;
@@ -175,10 +171,24 @@ width: 400px;
 .galery {
 }
 .galery-title {
+  ont-family: "Gilroy";
+  font-size: 32px;
+  line-height: 1.18;
+
+  color: #000000;
+
+  text-align: center;
+  padding-top: 90px;
+  margin-bottom: 23px;
 }
 .galery-text {
+  text-align: center;
+  margin-bottom: 57px;
 }
 .galery-list {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
 }
 .galery-item {
 }
