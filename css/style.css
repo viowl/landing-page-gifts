@@ -196,3 +196,9 @@ img {
 }
 .galery-link {
 }
+
+
+/* -------------singin----------- */
+.singin {
+  background:var(--brand-color)
+}
